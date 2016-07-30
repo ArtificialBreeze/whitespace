@@ -42,7 +42,8 @@ The full documentation can be found here: *http://compsoc.dur.ac.uk/whitespace/t
     * **Tab Tab** : Read number and store it in label specified by top of stack
 
 Here is a nicer and more intuitive representation:
-![Whitespace parser(https://github.com/ArtificialBreeze/whitespace/blob/master/whitespace.png)
+
+![Whitespace parser](https://raw.githubusercontent.com/ArtificialBreeze/whitespace/master/whitespace.png)
 ### 1.3 Installation
 Simply do:
 ```r
@@ -68,3 +69,4 @@ The above code should output:
 # Program output:  ?
 # Program stop
 ```
+
