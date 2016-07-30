@@ -1,0 +1,17 @@
+\name{whitespace}
+\alias{whitespace}
+\title{Whitespace compiler for R}
+\usage{
+dfa()
+parse()
+compile()
+}
+\description{
+Parses and compiles the whitespace code.
+}
+\examples{
+compile(parse(dfa("   \t\t\t\t\t\t\n\t\n  \n\n\n")))
+# Should print:
+# Program output:  ?
+# Program stop
+}
