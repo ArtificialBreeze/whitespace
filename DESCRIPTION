@@ -2,8 +2,7 @@ Package: whitespace
 Type: Package
 Title: Whitspace interpreter for R language
 Version: 0.1.0
-Author: Bogdan Mazoure
-Maintainer: bogdan.mazoure@gmail.com
+Authors@R:person("Bogdan", "Mazoure", , email="bogdan.mazoure@gmail.com", role = c("aut", "cre"))
 Description: Brings the esoteric whitespace-based language to R
 License: GNU GPL
 LazyData: TRUE
