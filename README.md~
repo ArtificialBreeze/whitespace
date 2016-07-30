@@ -41,6 +41,8 @@ The full documentation can be found here: *http://compsoc.dur.ac.uk/whitespace/t
     * **Tab Space** : Read character and store it in label specified by top of stack
     * **Tab Tab** : Read number and store it in label specified by top of stack
 
+Here is a nicer and more intuitive representation:
+![Whitespace parser(whitespace.png)
 ### 1.3 Installation
 Simply do:
 ```r
